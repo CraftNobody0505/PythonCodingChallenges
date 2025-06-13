@@ -16,7 +16,7 @@
 
 ## 已解决的问题
 
-脚本 `solution.py` (或您实际使用的文件名) 实现了以下三个问题的解决方案：
+脚本 `PythonCodingChallenges.py`  实现了以下三个问题的解决方案：
 
 1.  **随机字符串正序子串查询:** 随机产生100个字符串，查询其中最长的相邻字符严格正序的子串（例如："ace" 是正序，"aa" 或 "ca" 不是）。
 2.  **函数设计 `sum15()`:** 设计一个函数 `sum15()`，用于计算列表的和。在求和过程中，如果列表中存在15，则15和15之后的一个数字均不参与求和。
@@ -30,17 +30,16 @@
 ## 如何运行
 
 1.  **克隆仓库或下载 Python 脚本文件。**
-    假设您的脚本文件名为 `solution.py`：
+    PythonCodingChallenges.py：
     ```bash
-    git clone <您的仓库URL>
-    cd <您的仓库名称>
+    git clone <(https://github.com/CraftNobody0505/PythonCodingChallenges)>
+    cd <(https://github.com/CraftNobody0505)>
     ```
 
 2.  **在终端中执行脚本：**
     ```bash
-    python solution.py
+    python PythonCodingChallenges.py
     ```
-    (请将 `solution.py` 替换为您实际的 Python 文件名。)
 
     脚本将按顺序执行每个问题的演示：
     *   问题1和问题2的输出会直接显示。
